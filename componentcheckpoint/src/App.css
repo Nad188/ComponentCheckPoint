@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  background-image: url(https://images.creativemarket.com/0.1.0/ps/1941235/1360/904/m1/fpnw/wm1/pvb5nwetfdm7pycf2pit2wpigjpp139mjywri58zd9xuk5cyi2qa7m8uararsig7-.jpg?1479985522&s=8c655a68f8148821a50acba2ae7073d4);
+  background-size: cover;
+}
+img {
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
+}
+h1,
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(204, 255, 21);
+}
